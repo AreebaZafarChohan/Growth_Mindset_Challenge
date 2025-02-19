@@ -2,3 +2,6 @@ streamlit
 pandas
 openpyxl
 python-docx
+python-pptx
+PyMuPDF
+fpdf
