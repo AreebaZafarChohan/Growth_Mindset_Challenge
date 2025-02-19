@@ -57,7 +57,7 @@ set_theme(theme_choice)  # ✅ Apply Theme
 # App Title
 st.markdown('<h1 style="color: #4CAF50;">💿 Data Sweeper</h1>', unsafe_allow_html=True)
 
-st.write("Transform your files between CSV and Excel formats with built-in data cleaning and visualization!")
+st.write("Transform your files between CSV, Excel, PowerPoint, PDF and Word formats with built-in data cleaning and visualization!")
 
 # File Uploader
 # ✅ Additional Imports for Word and PowerPoint
