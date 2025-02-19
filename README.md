@@ -3,8 +3,6 @@
 **Transform your files between CSV and Excel formats with built-in data cleaning and visualization!**  
 
 ## 🌱 Growth Mindset Challenge  
-This Assignment was part of the **Growth Mindset Challenge** given by **Sir Zia**, pushing us to improve **problem-solving skills** and embrace **continuous learning**!
-## 🌱 Growth Mindset Challenge  
 This project was part of the **Growth Mindset Challenge** given by **Sir Zia**, pushing us to improve **problem-solving skills** and embrace **continuous learning**!  
 
 📌 **Assignment Link:** [Growth Mindset Challenge](https://github.com/panaversity/learn-modern-ai-python/blob/main/Growth_Mindset_Challenge.md)    
